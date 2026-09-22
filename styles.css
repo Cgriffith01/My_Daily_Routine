@@ -1,0 +1,26 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: rgb(102, 141, 168);
+}
+
+.center {
+  margin: 20px;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+img {
+  border: 5px solid #000;
+  border-radius: 10px; /* Optional rounded look */
+  max-width: 100%; /* Responsive image */
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
